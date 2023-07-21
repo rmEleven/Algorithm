@@ -6,7 +6,7 @@
 ├── level1
 │   ├── BasicAlgorithm
 │   ├── DataStructure
-│   ├── Search&GraphTheory
+│   ├── SearchAndGraphTheory
 │   ├── Mathematics
 │   ├── DynamicProgramming
 │   └── GreedyAlgorithm
