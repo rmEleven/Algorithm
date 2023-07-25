@@ -60,13 +60,13 @@
 
 ### 6. 拦截导弹
 
-[question]()
+[question](https://www.acwing.com/problem/content/1012/)
 
-[solution]()
+[solution](./InterceptMissile.cpp)
 
 ### 7. 导弹防御系统
 
-[question]()
+[question](https://www.acwing.com/problem/content/189/)
 
 [solution]()
 
