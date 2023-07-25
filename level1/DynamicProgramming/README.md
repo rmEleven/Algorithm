@@ -52,13 +52,13 @@
 
 [question](https://www.acwing.com/problem/content/897/)
 
-[solution](./LongestIncreasingSubsequence.cpp)
+[solution](./LongestIncreasingSubsequence1.cpp)
 
 ### 3. 最长上升子序列 II
 
 [question](https://www.acwing.com/problem/content/898/)
 
-[solution]()
+[solution](./LongestIncreasingSubsequence2.cpp)
 
 ### 4. 最长公共子序列
 
@@ -82,17 +82,19 @@
 
 ### 1. 石子合并
 
-[question]()
+[question](https://www.acwing.com/problem/content/284/)
 
-[solution]()
+[solution](./MergeStone.cpp)
 
 ## 计数类DP
 
 ### 1. 整数划分
 
-[question]()
+[question](https://www.acwing.com/problem/content/902/)
 
-[solution]()
+[solution1](./DivideInteger1.cpp)
+
+[solution2](./DivideInteger2.cpp)
 
 ## 数位统计DP
 
