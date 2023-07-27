@@ -6,7 +6,7 @@
 
 [question](https://www.acwing.com/problem/content/868/)
 
-[solution](./TrialDivision.cpp)
+[solution](./TrialDivision4Prime.cpp)
 
 ### 2. 分解质因数
 
@@ -26,27 +26,27 @@
 
 ### 1. 试除法求约数
 
-[question]()
+[question](https://www.acwing.com/problem/content/871/)
 
-[solution]()
+[solution](./TrialDivision4Divisor.cpp)
 
 ### 2. 约数个数
 
-[question]()
+[question](https://www.acwing.com/problem/content/872/)
 
-[solution]()
+[solution](./NumberOfDivisor.cpp)
 
 ### 3. 约数之和
 
-[question]()
+[question](https://www.acwing.com/problem/content/873/)
 
-[solution]()
+[solution](./SumOfDivisor.cpp)
 
 ### 4. 最大公约数
 
-[question]()
+[question](https://www.acwing.com/problem/content/874/)
 
-[solution]()
+[solution](./GreatestCommonDivisor.cpp)
 
 ## 欧拉函数
 
