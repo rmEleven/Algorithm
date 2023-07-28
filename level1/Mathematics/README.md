@@ -52,15 +52,15 @@
 
 ### 1. 欧拉函数
 
-[question]()
+[question](https://www.acwing.com/problem/content/875/)
 
-[solution]()
+[solution](./EulerFunction.cpp)
 
 ### 2. 筛法求欧拉函数
 
-[question]()
+[question](https://www.acwing.com/problem/content/876/)
 
-[solution]()
+[solution](./SieveMethod4EulerFunction.cpp)
 
 ## 快速幂
 
